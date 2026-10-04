@@ -1,0 +1,6 @@
+{
+  "name": "EcoBuild",
+  "description": "Turn unused electronic components into useful projects with deterministic matching, inventory passports, and personalized build recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
